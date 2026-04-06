@@ -1,0 +1,9 @@
+langchain
+langgraph
+langsmith
+langchain-community
+pydantic
+fastapi
+python-dotenv
+langchain-google-genai
+google-generativeai
