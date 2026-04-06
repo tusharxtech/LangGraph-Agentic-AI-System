@@ -37,7 +37,7 @@ Math Agent     Search Agent (Tool Calling)
 * ✅ Multi-agent architecture
 * ✅ FastAPI REST API
 * ✅ Pydantic schemas for validation
-* ✅ Environment-based configuration
+* ✅ Environment-based configuration (conda)
 
 
 ---
